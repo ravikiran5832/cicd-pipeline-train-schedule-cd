@@ -72,6 +72,4 @@ stage('DeployToProduction') {
                 }
             }
         }
-    }
-}
-}
+    
